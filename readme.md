@@ -1,1 +1,1 @@
-Tabuada simples feita com JavaScript Alterada
+Tabuada simples feita com JavaScript 
