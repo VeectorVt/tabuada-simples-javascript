@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 Tabuada Com JavaScript
-=======
+
 
 
