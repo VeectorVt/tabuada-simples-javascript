@@ -2,4 +2,4 @@
 Tabuada Com JavaScript
 =======
 
->>>>>>> teste1
+
