@@ -1,1 +1,1 @@
-Tabuada simples
+Tabuada simple Com JavaScript
